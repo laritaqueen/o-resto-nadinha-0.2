@@ -1,17 +1,5 @@
 # o-resto-nadinha-0.2
-Pular para reproduzir esboço
-Biscoitos
-O Editor p5.js usa cookies. Alguns são essenciais para a funcionalidade do site e permitem que você gerencie uma conta e preferências. Outros não são essenciais — eles são usados ​​para análises e nos permitem aprender mais sobre nossa comunidade. Nunca vendemos esses dados ou os usamos para publicidade. Você pode decidir quais cookies deseja permitir e saber mais em nossa Política de Privacidade .
 
-
-Permitir todos
-
-Permitir Essencial
-Arquivo
-Editar
-Esboço
-Ajuda
-Inglês
 Olá , lauraalvescr !
 
 
